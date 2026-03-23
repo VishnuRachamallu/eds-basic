@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/eds-invocare-basic/:/",
+    "/content/eds-invocare-basic/configuration:/.helix/config.json",
+    "/content/eds-invocare-basic/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/eds-invocare-basic/"
   ]
 }
