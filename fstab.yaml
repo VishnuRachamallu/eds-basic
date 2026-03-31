@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p162613-e1757403.adobeaemcloud.com/bin/franklin.delivery/VishnuRachamallu/eds-basic/main"
+    url: "https://author-p162613-e1757357.adobeaemcloud.com/bin/franklin.delivery/VishnuRachamallu/eds-basic/main"
     type: "markup"
     suffix: ".html"
